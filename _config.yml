@@ -1,13 +1,14 @@
 title: LAKIS Tech
 email: jacek.lakis@gmail.com
 description: >-
-  LAKIS Tech - Jacek J. Łakis. DX | Platform | SRE | Cloud | Backend | Apps
+  LAKIS Tech - Jacek Jakub Łakis
+  DX | Platform | SRE | Cloud | Backend | Apps
 baseurl: ""
 url: "https://www.lakis.tech"
 twitter_username: jjlakis
 github_username:  jjlakis
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
