@@ -8,7 +8,25 @@ url: "https://www.lakis.tech"
 twitter_username: jjlakis
 github_username:  jjlakis
 
+author:
+  name: "Jacek J. Łakis"
+  avatar: "/img/ja.jpeg"
+  bio: "DX, Platform, SRE, Cloud, Backend to name a few"
+  location: "Gdańsk, Poland"
+  links:
+    - label: "lakis.tech"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.lakis.tech"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jjlakis"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/jjlakis/"
+
+
 # Build settings
+include: ["_pages"]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
