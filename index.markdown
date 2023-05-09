@@ -4,3 +4,5 @@
 
 layout: home
 ---
+##### Welcome to lakis.tech!
+I am pleased you came here for some content! I am writing about infrastructure, programming, cloud, Kubernetes and more!
