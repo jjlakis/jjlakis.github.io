@@ -7,6 +7,7 @@ repository: "jjlakis/jjlakis.github.io"
 url: "https://www.lakis.tech"
 twitter_username: jjlakis
 github_username:  jjlakis
+logo: "img/small4.svg"
 
 author:
   name: "Jacek J. Łakis"
@@ -30,7 +31,7 @@ author:
 
 # Build settings
 include: ["_pages"]
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "jjlakis/minimal-mistakes@v0.0.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
