@@ -7,7 +7,7 @@ repository: "jjlakis/jjlakis.github.io"
 url: "https://www.lakis.tech"
 twitter_username: jjlakis
 github_username:  jjlakis
-logo: "img/small4.svg"
+logo: "img/shadows-in-circle.svg"
 
 author:
   name: "Jacek J. Łakis"
@@ -27,11 +27,12 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@jjlakis"
-
+atom_feed:
+  hide: true
 
 # Build settings
 include: ["_pages"]
-remote_theme: "jjlakis/minimal-mistakes@v0.0.1"
+remote_theme: "jjlakis/minimal-mistakes@v0.0.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

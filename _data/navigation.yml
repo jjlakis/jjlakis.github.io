@@ -1,4 +1,6 @@
 main:
+  - title: "Our services"
+    url: /services/
   - title: "Posts"
     url: /posts/
   - title: "Tags"
