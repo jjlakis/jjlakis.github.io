@@ -1,10 +1,11 @@
 main:
-  - title: "Our services"
+  - title: "Case studies"
+    url: /cases/
+  - title: "Services"
     url: /services/
-  - title: "Posts"
+  - title: "Trainings"
+    url: /trainings/
+  - title: "Blog"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
-  - title: "About me"
+  - title: "About"
     url: /about/
-
