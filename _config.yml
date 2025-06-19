@@ -6,7 +6,7 @@ baseurl: ""
 repository: "jjlakis/jjlakis.github.io"
 url: "https://www.lakis.tech"
 twitter_username: jjlakis
-github_username:  jjlakis
+github_username: jjlakis
 logo: "img/shadows-in-circle.svg"
 
 author:
@@ -33,6 +33,7 @@ atom_feed:
 # Build settings
 include: ["_pages"]
 remote_theme: "jjlakis/minimal-mistakes@v0.0.2"
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

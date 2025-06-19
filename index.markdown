@@ -4,5 +4,7 @@
 
 layout: home
 ---
+
 ##### Welcome to lakis.tech!
-I am pleased you came here for some content! I am writing about infrastructure, programming, cloud, Kubernetes and more!
+
+For over 11 years, we've been building infrastructure and software development solutions for small, medium and large businesses.
