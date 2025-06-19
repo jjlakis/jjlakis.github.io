@@ -12,7 +12,7 @@ logo: "img/shadows-in-circle.svg"
 author:
   name: "Jacek J. Łakis"
   avatar: "/img/ja.jpeg"
-  bio: "DX, Platform, SRE, Cloud, Backend to name a few"
+  bio: "LAKIS TECH. DX, Platform, SRE, Cloud, Backend"
   location: "Gdańsk, Poland"
   links:
     - label: "lakis.tech"
@@ -33,6 +33,18 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      read_time: true
+      comments: true
+      share: true
 
 # Build settings
 include: ["_pages"]

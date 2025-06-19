@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Workload Identity in K8S - Gdańsk Kubernetes Meetup"
 date: 2024-05-27 13:31:03 +0200
 categories: post

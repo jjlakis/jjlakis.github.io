@@ -1,12 +1,19 @@
 ---
+layout: single
 title: "Just-in-time access for CloudSQL"
 excerpt: "We've built a fully auditable just-in-time access framework for CloudSQL based on Privileged Access Manager."
 header:
-  image: /assets/images/your-hero-image.jpg
-  teaser: /img/studies/db.jpg # This shows in the grid
+  teaser: /img/studies/db.jpg
+  overlay_image: /img/studies/db.jpg
 sidebar:
-  - title: "Role"
-    text: "Your role"
+  - title: "Client"
+    text: "Marketplace scale-up"
+  - title: "Challenge"
+    text: "Allow developers to access production and staging databases with full audit and approval process."
+  - title: "Technologies"
+    text: "CloudSQL, PostgreSQL, Privileges Access Manager, Cloud Functions, Slack SDK"
+author_profile: false
+classes: wide
 ---
 
-SIEMANOOOO
+<p style="text-align: center; font-weight: bold">Case study</p>

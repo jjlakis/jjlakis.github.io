@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Reverse-engineering Kubeconfig"
 date: 2023-05-29 19:02:16 +0200
 categories: post

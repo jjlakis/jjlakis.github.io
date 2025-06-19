@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "GCP Secrets with on-premises Kubernetes without credentials"
 date: 2023-05-09 13:14:03 +0000
 categories: post
